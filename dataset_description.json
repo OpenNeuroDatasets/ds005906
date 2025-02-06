@@ -1,6 +1,9 @@
-{ 	"Name": "Test-retest reliability of resting-state functional magnetic resonance imaging during deep brain stimulation for Parkinson’s disease",
-	"BIDSVersion": "",	
-	"Authors": [
+{
+    "Name": "Test-retest reliability of resting-state functional magnetic resonance imaging during deep brain stimulation for Parkinson’s disease",
+    "BIDSVersion": "",
+    "Authors": [
         ""
-    ]
+    ],
+    "Funding": [],
+    "License": "CC0"
 }
