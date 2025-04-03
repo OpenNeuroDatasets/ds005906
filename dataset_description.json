@@ -5,7 +5,9 @@
         "",
         "Skyler Deutsch BS*, Juhi Mehta BS*, Andrea Fuentes MD, Sarah Wang PhD, Lee Reid PhD, John Kornak PhD, Philip A. Starr MD PhD, Jill Ostrem MD, Doris D. Wang MD PhD, Ian O. Bledsoe MD, Melanie A. Morrison PhD"
     ],
-    "Funding": [],
+    "Funding": [
+        "This work was supported by the National Institutes of Health through the University of California, San Francisco Clinical and Translational Science Institute (CTSI) [UL1TR001872]."
+    ],
     "License": "CC0",
     "Acknowledgements": "We extend our gratitude to Patrick Koon from General Electric Healthcare; our MRI safety committee, MRI technicians, and nursing staff at the Surbeck Laboratory for Advanced Imaging for their many contributions. Most importantly, we thank the patients and their caregivers for their generosity and commitment to this optional research study."
 }
