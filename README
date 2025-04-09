@@ -1,23 +1,19 @@
-# Date: April 4th, 2025
+## Date: April 4th, 2025
 
 This dataset repository contains de-identified fMRI and T1-weighted imaging data acquired from 16 Parkinson's disease patients (aged 50-76 years) receiving deep brain stimulation therapy. All patients were implanted in either the subthalamic nucleus or the globus pallidus internus.
 
-## Data Acquisition
-
+### Data Acquisition
 For details on data acquisition, please refer to the attached JSON files below.
 
-## Study Details
-
+### Study Details
 For information on our test-retest study and subsequent findings, please refer to the preprint of our manuscript:  
 [Coming Soon]
 
-## Contact Information
-
+### Contact Information
 For any inquiries, please contact:  
 **Skyler Deutsch** (skyler.deutsch@ucsf.edu) and **Dr. Melanie Morrison** (melanie.morrison@ucsf.edu)
 
-## Data Access and Licensing
-
+### Data Access and Licensing
 This dataset was acquired at the **University of California, San Francisco** and is licensed under the **CC0** license. It is publicly available for research and educational purposes. Please ensure appropriate citation.
 
 Thank you for your interest!
