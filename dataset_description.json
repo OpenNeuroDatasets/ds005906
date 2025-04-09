@@ -15,12 +15,14 @@
   ],
   "License": "CC BY-NC 4.0",
   "DatasetType": "MRI",
-  "BIDSVersion": " ",
+  "BIDSVersion": "",
   "Funding": [
     {
       "AwardNumber": "5UL1TR001872",
       "Agency": "National Institutes of Health",
-      "Institution": "University of California, San Francisco Clinical and Translational Science Institute", }
+      "Institution": "University of California, San Francisco Clinical and Translational Science Institute"
+    }
+  ],
   "Sessions": [
     {
       "session_label": "session1",
