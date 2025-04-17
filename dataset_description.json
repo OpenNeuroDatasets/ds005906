@@ -15,8 +15,9 @@
   ],
   "License": "CC BY-NC 4.0",
   "DatasetType": "Raw",
-  "BIDSVersion": "",
+  "BIDSVersion": " ",
   "Funding": [
-"University of California, San Francisco Clinical and Translational Science Institute (CTSI)(CTSI NIH Grant No. 5UL1TR001872)."
-  ]
+    "University of California, San Francisco Clinical and Translational Science Institute (CTSI)(CTSI NIH Grant No. 5UL1TR001872)."
+  ],
+  "ParticipantAges": "50-76 years"
 }
