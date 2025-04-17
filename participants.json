@@ -6,24 +6,6 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 \{\
-  "age_range": \'9350-76\'94,\
-  "participants": [\
-    \{ "participant_id": "sub-01" \},\
-    \{ "participant_id": "sub-02" \},\
-    \{ "participant_id": "sub-03" \},\
-    \{ "participant_id": "sub-04" \},\
-    \{ "participant_id": "sub-05" \},\
-    \{ "participant_id": "sub-06" \},\
-    \{ "participant_id": "sub-07" \},\
-    \{ "participant_id": "sub-08" \},\
-    \{ "participant_id": "sub-09" \},\
-    \{ "participant_id": "sub-10" \},\
-    \{ "participant_id": "sub-11" \},\
-    \{ "participant_id": "sub-12" \},\
-    \{ "participant_id": "sub-13" \},\
-    \{ "participant_id": "sub-14" \},\
-    \{ "participant_id": "sub-15" \},\
-    \{ "participant_id": "sub-16" \}\
-  ]\
+  "age\'94: \'9350-76\'94\
 \}\
 }
