@@ -20,12 +20,10 @@
   ],
   "Sessions": [
     {
-      "session_label": "session1",
-      "Description": "Resting-state fMRI with deep brain stimulation"
+      "session_id": "ses-01",
     },
     {
-      "session_label": "session2",
-      "Description": "Resting-state fMRI with deep brain stimulation"
+      "session_id": "ses-02",
     }
   ]
 }
