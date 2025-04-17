@@ -16,6 +16,7 @@
   "License": "CC BY-NC 4.0",
   "DatasetType": "Raw",
   "BIDSVersion": "",
-  "Funding": ["University of California, San Francisco Clinical and Translational Science Institute (CTSI)(CTSI NIH Grant No. 5UL1TR001872)."
+  "Funding": [
+"University of California, San Francisco Clinical and Translational Science Institute (CTSI)(CTSI NIH Grant No. 5UL1TR001872)."
   ]
 }
