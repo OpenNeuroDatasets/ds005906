@@ -17,13 +17,4 @@
   "DatasetType": "Raw",
   "BIDSVersion": "",
   "Funding": ["University of California, San Francisco Clinical and Translational Science Institute (CTSI)(CTSI NIH Grant No. 5UL1TR001872)."
-  ],
-  "Sessions": [
-    {
-      "session_id": "ses-01",
-    },
-    {
-      "session_id": "ses-02",
-    }
   ]
-}
