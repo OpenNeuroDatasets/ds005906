@@ -1,0 +1,23 @@
+{
+    "Name": "Test-retest reliability of resting-state functional MRI during DBS for Parkinson’s disease",
+    "Authors": [
+        "Skyler Deutsch BS*",
+        "Juhi Mehta BS*",
+        "Andrea Fuentes MD",
+        "Sarah Wang PhD",
+        "Lee Reid PhD",
+        "John Kornak PhD",
+        "Philip A. Starr MD PhD",
+        "Jill Ostrem MD",
+        "Doris D. Wang MD PhD",
+        "Ian O. Bledsoe MD",
+        "Melanie A. Morrison PhD"
+    ],
+    "License": "CC0",
+    "DatasetType": "raw",
+    "BIDSVersion": "1.10.0",
+    "Funding": [
+        "University of California, San Francisco Clinical and Translational Science Institute (CTSI)(CTSI NIH Grant No. 5UL1TR001872)."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005906.v1.0.5"
+}
