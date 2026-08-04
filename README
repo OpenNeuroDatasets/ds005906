@@ -1,10 +1,21 @@
-**Last Updated: August 3rd 2026**
+**Last Updated: August 4TH 2026**
 
 ### Summary 
 This dataset repository contains de-identified fMRI and T1-weighted imaging data acquired from 10  Parkinson's disease patients (aged 50-76 years) receiving deep brain stimulation therapy. All patients were implanted in either the Subthalamic Nucleus or the Globus Pallidus Internus.
 
 ### Data Acquisition
 For details on data acquisition, please refer to the attached JSON files below.
+
+## BOLD Metadata
+
+Two BOLD JSON sidecar files are provided to account for differences in the number of slices across subjects.
+
+| Subjects | Number of slices (`dim3`) | `SliceTiming` values |
+|----------|--------------------------:|---------------------:|
+| `sub-01`, `sub-16` | 36 | 36 |
+| `sub-02`, `sub-03`, `sub-04`, `sub-05`, `sub-06`, `sub-12`, `sub-13`, `sub-14` | 38 | 38 |
+
+Use the BOLD JSON sidecar with the corresponding number of `SliceTiming` values for each subject.
 
 ### Study Details
 For information on our test-retest study and subsequent findings, please refer to our manuscript: 
