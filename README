@@ -10,7 +10,7 @@ For details on data acquisition, please refer to the accompanying BOLD JSON side
 
 Separate BOLD JSON sidecar files are provided for the 36- and 38-slice acquisitions.
 
-| Subject(s) | Slices (`dim3`) |
+| Subject(s) | Slices |
 |------------|----------------:|
 | `sub-01` (`ses-01`), `sub-09` (`ses-02`), `sub-16` (`ses-01`) | 36 |
 | All remaining BOLD acquisitions | 38 |
