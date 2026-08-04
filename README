@@ -10,10 +10,10 @@ For details on data acquisition, please refer to the accompanying BOLD JSON side
 
 Separate BOLD JSON sidecar files are provided for the 36- and 38-slice acquisitions.
 
-| Subject(s) | Slices (`dim3`) |
-|------------|----------------:|
-| `sub-01` (`ses-01`), `sub-09` (`ses-02`), `sub-16` (`ses-01`) | 36 |
-| `sub-01` (`ses-02`), `sub-02`, `sub-03` (`ses-01`, `ses-02`), `sub-04`, `sub-05`, `sub-06`, `sub-07`, `sub-08`, `sub-09` (`ses-01`), `sub-10`, `sub-11`, `sub-12`, `sub-13`, `sub-14`, `sub-15` | 38 |
+| Slices (`dim3`) | Subjects |
+|----------------:|----------|
+| 36 | `sub-01` (`ses-01`), `sub-09` (`ses-02`), `sub-16` (`ses-01`) |
+| 38 | `sub-01` (`ses-02`), `sub-02`–`sub-08`, `sub-09` (`ses-01`), `sub-10`–`sub-15` |
 
 ### Study Details
 For information on our test-retest study and subsequent findings, please refer to our manuscript: 
