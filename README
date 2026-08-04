@@ -6,7 +6,7 @@ This dataset repository contains de-identified fMRI and T1-weighted imaging data
 ### Data Acquisition
 For details on data acquisition, please refer to the attached JSON files below.
 
-## BOLD Metadata
+### BOLD Metadata
 
 Two BOLD JSON sidecar files are provided to account for differences in the number of slices across subjects.
 
