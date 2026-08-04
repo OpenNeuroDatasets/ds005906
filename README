@@ -13,7 +13,7 @@ Separate BOLD JSON sidecar files are provided for the 36- and 38-slice acquisiti
 | Slices (`dim3`) | Subjects |
 |----------------:|----------|
 | 36 | `sub-01` (`ses-01`), `sub-09` (`ses-02`), `sub-16` (`ses-01`) |
-| 38 | `sub-01` (`ses-02`), `sub-02`–`sub-08`, `sub-09` (`ses-01`), `sub-10`–`sub-15` |
+| 38 | All remaining BOLD acquisitions |
 
 ### Study Details
 For information on our test-retest study and subsequent findings, please refer to our manuscript: 
