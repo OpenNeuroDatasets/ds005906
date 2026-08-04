@@ -10,10 +10,10 @@ For details on data acquisition, please refer to the attached JSON files below.
 
 Two BOLD JSON sidecar files are provided to account for differences in the number of slices across subjects.
 
-| Subjects | Number of slices (`dim3`) | `SliceTiming` values |
-|----------|--------------------------:|---------------------:|
-| `sub-01`, `sub-16` | 36 | 36 |
-| `sub-02`, `sub-03`, `sub-04`, `sub-05`, `sub-06`, `sub-12`, `sub-13`, `sub-14` | 38 | 38 |
+| Subjects | Number of slices (`dim3`) |
+|----------|--------------------------:|
+| `sub-01`, `sub-16` | 36 |
+| `sub-02`, `sub-03`, `sub-04`, `sub-05`, `sub-06`, `sub-12`, `sub-13`, `sub-14` | 38 |
 
 Use the BOLD JSON sidecar with the corresponding number of `SliceTiming` values for each subject.
 
