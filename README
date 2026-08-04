@@ -6,13 +6,14 @@ This dataset repository contains de-identified fMRI and T1-weighted imaging data
 ### Data Acquisition
 For details on data acquisition, please refer to the accompanying BOLD JSON sidecar files.
 
-### BOLD Metadata
+## BOLD Metadata
+
 Separate BOLD JSON sidecar files are provided for the 36- and 38-slice acquisitions.
 
-| Subjects | Slices (`dim3`) |
-|----------|----------------:|
-| `sub-01`, `sub-16` | 36 |
-| `sub-02`, `sub-03`, `sub-04`, `sub-05`, `sub-06`, `sub-12`, `sub-13`, `sub-14` | 38 |
+| Subject(s) | Slices (`dim3`) |
+|------------|----------------:|
+| `sub-01` (`ses-01`), `sub-09` (`ses-02`), `sub-16` (`ses-01`) | 36 |
+| `sub-01` (`ses-02`), `sub-02`, `sub-03` (`ses-01`, `ses-02`), `sub-04`, `sub-05`, `sub-06`, `sub-07`, `sub-08`, `sub-09` (`ses-01`), `sub-10`, `sub-11`, `sub-12`, `sub-13`, `sub-14`, `sub-15` | 38 |
 
 ### Study Details
 For information on our test-retest study and subsequent findings, please refer to our manuscript: 
