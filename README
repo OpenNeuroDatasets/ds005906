@@ -1,4 +1,4 @@
-**Last Updated: August 5th 2026**
+**Last Updated: November 19th 2026**
 
 ### Summary 
 This dataset repository contains de-identified fMRI and T1-weighted imaging data acquired from 10  Parkinson's disease patients (aged 50-76 years) receiving deep brain stimulation therapy. All patients were implanted in either the Subthalamic Nucleus or the Globus Pallidus Internus.
@@ -18,6 +18,9 @@ Separate BOLD JSON sidecar files are provided for the 36- and 38-slice acquisiti
 ### Study Details
 For information on our test-retest study and subsequent findings, please refer to our manuscript: 
 https://doi.org/10.1016/j.nicl.2026.103973
+
+###Github Repository
+https://github.com/Radiology-Morrison-lab-UCSF/DBS_fMRI_Reproducibility.git
 
 ### Contact Information
 For any inquiries, please contact:  
